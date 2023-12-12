@@ -1,4 +1,4 @@
-# 			Welcome To ML_Bitcoin [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset/)] 📖👋
+# 			Welcome To ML_Bitcoin [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)(https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset/)] 📖👋
 
 <p align='center'> 
   💻 CSCI 4502 Group 04 Project
