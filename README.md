@@ -1,4 +1,4 @@
-# 			Welcome To ML_Bitcoin [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)] 📖👋
+# 			Welcome To ML_Bitcoin [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset/)] 📖👋
 
 <p align='center'> 
   💻 CSCI 4502 Group 04 Project
@@ -37,7 +37,7 @@ The volatile nature of the stock market, combined with the increasing popularity
 
 **Source**
 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset/) 
 
 **IDEs**
 
@@ -105,5 +105,5 @@ python -m venv <Bitcoin_Env>
 
 ## 🔗 Links
 
-**💻 Docker Compose**
+
 
