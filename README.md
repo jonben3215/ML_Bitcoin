@@ -1,5 +1,4 @@
-## Welcome To ML_Bitcoin [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)] 📖👋
-
+# Welcome To ML_Bitcoin [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)] 📖👋
 
 <p align='center'> 
   💻 CSCI 4502 Group 04 Project
@@ -9,7 +8,7 @@
 
 
 👥 Contributors
--------------
+---------------
 
 - 👨‍🍳 [Aaron Amha](https://github.com/AaronAmha)
 - 👨‍🍳 [Ben Xiang](https://github.com/jonben3215)
@@ -17,14 +16,14 @@
 - 👩‍🍳 [Zach ](https://github.com/qung5100)
 
 📋 Table of contents
------------------
+--------------------
 
 * [Brief Application Description ](#-brief-application-description-introduction)
 * [Technology Stack](#tech-stack)
 * [Prerequisites - Installations](#%EF%B8%8F-installation)
 * [Instructions](#-instructions)
 
-📝 #Brief Application Description (Introduction) 
+📝 # Brief Application Description (Introduction) 
 -------------------------------------------------
 
 	The stock market is a place where people can make a lot of money, but it's also pretty risky. Prices can go up and down a lot because of how companies are doing, what's happening in the world, and how people feel about investing. This unpredictability gets even trickier when we talk about Bitcoin. It's super unpredictable and its value changes a lot. So, our team is working on a smart computer program to try and guess how much Bitcoin will cost in the future. We're using past information and fancy technology to make better guesses about Bitcoin's price. This can help folks make smarter decisions in this fast-moving and risky money world.
@@ -56,13 +55,13 @@
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]
 
 **Languages**
-[![Check](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 
 
 ### API Reference
 
-[![BinanceAPI](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)]
+![BinanceAPI](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 
 
 
