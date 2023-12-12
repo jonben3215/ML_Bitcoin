@@ -14,7 +14,7 @@
 - 👨‍🍳 [Aaron Amha](https://github.com/AaronAmha)
 - 👨‍🍳 [Ben Xiang](https://github.com/jonben3215)
 - 👨‍🍳 [Owen Crenshaw](https://github.com/)
-- 👩‍🍳 [Zach ](https://github.com/qung5100)
+- 👩‍🍳 [Zach Nguyen](https://github.com/qung5100)
 
 📋 Table of contents
 --------------------
