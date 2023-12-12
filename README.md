@@ -1,9 +1,4 @@
-﻿# ML_Bitcoin
-
-Since we could not upload one of our csv file because it is too large to upload, we included the link down below to the csv file just in case any TA's or graders want to check it out!
-https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
-
-<h1 align = 'center'> Welcome To ML_Bitcoin [(https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)] 📖👋 </h1>
+<h1 align = 'center'> Welcome To [![ML_Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) 📖👋 </h1>
 
 <p align='center'> 
   💻 CSCI 4502 Group 04 Project
