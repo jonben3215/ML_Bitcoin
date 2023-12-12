@@ -1,4 +1,4 @@
-<h1 align = 'center'> Welcome To [![ML_Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) 📖👋 </h1>
+<h1 align = 'center'> Welcome To ML_Bitcoin (https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) 📖👋 </h1>
 
 <p align='center'> 
   💻 CSCI 4502 Group 04 Project
