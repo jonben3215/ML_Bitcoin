@@ -25,8 +25,7 @@
 
 📝 # Brief Application Description (Introduction) 
 -------------------------------------------------
-
-	The stock market is a place where people can make a lot of money, but it's also pretty risky. Prices can go up and down a lot because of how companies are doing, what's happening in the world, and how people feel about investing. This unpredictability gets even trickier when we talk about Bitcoin. It's super unpredictable and its value changes a lot. So, our team is working on a smart computer program to try and guess how much Bitcoin will cost in the future. We're using past information and fancy technology to make better guesses about Bitcoin's price. This can help folks make smarter decisions in this fast-moving and risky money world.
+The stock market is a place where people can make a lot of money, but it's also pretty risky. Prices can go up and down a lot because of how companies are doing, what's happening in the world, and how people feel about investing. This unpredictability gets even trickier when we talk about Bitcoin. It's super unpredictable and its value changes a lot. So, our team is working on a smart computer program to try and guess how much Bitcoin will cost in the future. We're using past information and fancy technology to make better guesses about Bitcoin's price. This can help folks make smarter decisions in this fast-moving and risky money world.
 
 	In traditional stock markets, investing in stocks means investing in a company, allowing investors to assess the company's performance before making buying or selling decisions. However, with cryptocurrencies like Bitcoin, the scenario shifts. Bitcoin lacks a direct tie to any company or entity, making it exceptionally challenging to predict optimal moments for investment moves. Its value isn't linked to specific company metrics, adding complexity to forecasting its price swings. Adding to this complexity is Bitcoin's immense popularity. Its widespread adoption among a newer generation of investors and the allure of its decentralized technology contribute to volatile price shifts. The attention and sentiment surrounding Bitcoin significantly influence its value, making its market behavior even harder to predict.
 
@@ -55,6 +54,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Communication**
+
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
