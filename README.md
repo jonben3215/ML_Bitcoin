@@ -19,12 +19,12 @@
 📋 Table of contents
 --------------------
 
-* [Brief Application Description ](#-brief-application-description-introduction)
+* [Brief Application Description](#-brief-application-description-introduction)
 * [Technology Stack](#tech-stack)
 * [Prerequisites - Installations](#%EF%B8%8F-installation)
 * [Instructions](#-instructions)
 
-📝 # Brief Application Description (Introduction) 
+📝 #Brief Application Description (Introduction) 
 -------------------------------------------------
 The stock market is a place where people can make a lot of money, but it's also pretty risky. Prices can go up and down a lot because of how companies are doing, what's happening in the world, and how people feel about investing. This unpredictability gets even trickier when we talk about Bitcoin. It's super unpredictable and its value changes a lot. So, our team is working on a smart computer program to try and guess how much Bitcoin will cost in the future. We're using past information and fancy technology to make better guesses about Bitcoin's price. This can help folks make smarter decisions in this fast-moving and risky money world.
 
@@ -70,7 +70,7 @@ The volatile nature of the stock market, combined with the increasing popularity
 
 
 
-## ⚙️ Installation(s)
+## ⚙️ Installation
 
 Imports / Dependencies / Libraries
 
